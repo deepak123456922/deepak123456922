@@ -34,26 +34,11 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
 
-
-
 ### 🛠 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio%20-0078d7?style=for-the-badge&logo=visual-studio&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual-Studio%20-0078d7?style=for-the-badge&logo=visual-studio&logoColor=white) 
 
 ### ⚙️ Hosting  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
-## 📊 GitHub Stats & Languages  
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=deepak123456922&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak123456922&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=deepak123456922&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
 
 ## 🌐 Connect With Me  
 <p align="center">
