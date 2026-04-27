@@ -37,6 +37,21 @@
 ### 🛠 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual-Studio%20-0078d7?style=for-the-badge&logo=visual-studio&logoColor=white) 
 
+## 🚀 Projects
+
+### 🔹 Leave Management System
+- Built using ASP.NET Core & SQL Server  
+- Features: Leave apply, approval system, admin dashboard  
+- Role-based access (Admin/User)  
+
+### 🔹 To-Do List Application
+- Built using MVC Architecture  
+- Implemented CRUD operations  
+- Simple and responsive UI  
+
+### 🔹 Quiz Application
+- Built using HTML, CSS, JavaScript  
+- Interactive quiz with score tracking   
 ### ⚙️ Hosting  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 
