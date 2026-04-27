@@ -40,16 +40,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio%20-0078d7?style=for-the-badge&logo=visual-studio&logoColor=white) 
 
 ### ⚙️ Hosting  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 💳 Payments & APIs  
-![Razorpay](https://img.shields.io/badge/Razorpay-0C244A?style=for-the-badge&logo=razorpay&logoColor=3395FF)  ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest-api&logoColor=white)
-
-### 🤖 AI/ML & Prompt Engineering  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-black?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge)
-
----
-
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 ## 📊 GitHub Stats & Languages  
 
 <p align="center">
@@ -74,19 +65,5 @@
   </a>
  
 </p>
-
-
-
-## 📈 Contribution Graph
-[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak123456922&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<!--## 🐍 My Contribution Graph
-
-![Snake animation](https://github.com/deepak123456922/deepak123456922/blob/output/github-contribution-grid-snake.svg)
--->
-
-
 
 ⭐️ From [deepak123456922](https://github.com/deepak123456922)
