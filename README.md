@@ -26,7 +26,7 @@
 
 ### 🔧 Backend  
 
-![C#](https://img.shields.io/badge/C#-000000?style=for-the-badge)
+![C Sharp](https://img.shields.io/badge/C-sharp-000000?style=for-the-badge)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Web API](https://img.shields.io/badge/Web_API-000000?style=for-the-badge)
