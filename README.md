@@ -57,6 +57,12 @@
 ### ⚙️ Hosting  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 
+## 🧩 Other Skills
+- Node.js  
+- Express.js  
+- MongoDB  
+- MySQL  
+
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-kumar-a8933a260/">
@@ -69,3 +75,5 @@
 </p>
 
 ⭐️ From [deepak123456922](https://github.com/deepak123456922)
+
+⭐ *Actively looking for .NET Developer (Fresher) opportunities*
